@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<head>
-    <title>
-        HOME PAGE
-    </title>
-    
+
+ 
 <header>
  <h1>  Namaric Solution</h1>
     
